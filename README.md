@@ -28,3 +28,8 @@ A list of resources that might be useful for the tasks addressed by the autonomo
 * [Spinnaker SDK Documentation](https://www.ptgrey.com/Content/Images/uploaded/downloads/Software/2016/Spinnaker/html/index.html)] ([Fuelfighters Spinnaker driver](https://github.com/FuelFighter/spinnaker-opencv))
 ### Sample Data
 * [Video from another team](https://www.youtube.com/watch?v=ec2pjgX1YpU&feature=youtu.be)
+
+## Intel Nuc
+* [Home page](https://simplynuc.com/hades-canyon/)
+* Ports: [front](https://simplynuc.com/wp-content/uploads/2018/01/SimplyNUC_Marketing_03-1024x1024.jpeg) [back](https://simplynuc.com/wp-content/uploads/2018/01/SimplyNUC_Marketing_02-1-1024x1024.jpeg)
+* Open source GPU driver: [arch linux](https://wiki.archlinux.org/index.php/AMDGPU) [ubuntu](https://help.ubuntu.com/community/AMDGPU-Driver)
